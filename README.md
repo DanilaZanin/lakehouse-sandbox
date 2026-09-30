@@ -1,3 +1,5 @@
+> **Moved.** This starter now lives in [devops-starters/data/lakehouse-trino-iceberg](https://github.com/DanilaZanin/devops-starters/tree/main/data/lakehouse-trino-iceberg), with pinned versions, a self-contained Makefile and a test that reproduces the trap it avoids. This repository is archived.
+
 # lakehouse-sandbox
 
 A local "lakehouse" stack: MinIO as S3-compatible object storage, an Iceberg
